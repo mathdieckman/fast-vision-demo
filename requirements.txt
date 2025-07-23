@@ -1,0 +1,6 @@
+pygame
+future
+numpy
+Pillow
+pyglet
+pyglet-ffmpeg2
